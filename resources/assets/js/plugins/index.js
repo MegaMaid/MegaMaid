@@ -1,0 +1,5 @@
+import './axios'
+import './fontawesome'
+import './clipboard'
+import './pagination'
+import 'bootstrap'

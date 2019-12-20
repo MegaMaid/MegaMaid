@@ -1,0 +1,2 @@
+webpackJsonp([15],{QBxf:function(t,e,n){"use strict";Object.defineProperty(e,"__esModule",{value:!0});var i=n("XyMi"),l=Object(i.a)({middleware:"auth",metaInfo:function(){return{title:this.$t("home")}}},function(){var t=this.$createElement;return(this._self._c||t)("card",{attrs:{title:this.$t("home")}},[this._v("\n  "+this._s(this.$t("you_are_logged_in"))+"\n")])},[],!1,null,null,null);e.default=l.exports}});
+//# sourceMappingURL=15.8c5fd67a86edeaf2f294.js.map
