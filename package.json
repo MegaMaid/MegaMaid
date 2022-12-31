@@ -35,12 +35,12 @@
     "vuex-router-sync": "^5.0.0"
   },
   "devDependencies": {
-      "@vue/cli-plugin-eslint": "<=3.0.0-beta.9",
-      "@vue/cli-service": "<=3.0.0-beta.9",
+      "@vue/cli-plugin-eslint": "<=6.0.0",
+      "@vue/cli-service": "<=4.0.0",
       "@vue/eslint-config-standard": "<=3.0.0-beta.9",
       "babel-plugin-syntax-dynamic-import": "^6.18.0",
       "cross-env": "^5.1.5",
-      "laravel-mix": "^2.1.11",
+      "laravel-mix": "^6.0.49",
       "vue-template-compiler": "^2.5.16",
       "webpack-bundle-analyzer": "^2.11.2",
       "webpack-command": "^0.2.1"
